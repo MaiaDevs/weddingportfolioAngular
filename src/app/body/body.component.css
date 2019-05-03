@@ -1,0 +1,225 @@
+ .cover {
+      z-index: -1;
+      margin-top: 30px;
+      margin-bottom: 50px;
+  }
+  img{
+      float: right;
+      margin-left: 500px;
+      
+  }
+
+
+  
+  
+  .uno{
+      margin-top: 150px;
+      margin-left: 10px;
+      text-align: left;
+      color: #aaa8a8;
+  }
+
+  .dos{
+      margin-top: 200px;
+      font-size: 80px;
+      text-align: left;
+      line-height: 100%;
+  }
+
+  .tres {
+      margin-top: 400px;
+      text-align: left;
+    
+  }
+
+  .icono{
+      margin-left: 50px;
+      
+  }
+  
+.section{
+  background-image: url('/assets/images/camera.png');
+
+  /* Set a specific height */
+  /* min-height: 500px;  */
+  background-size: 60%;
+  min-height: 500px;
+  background-position: 22% 55%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  /* margin-left: -20px;
+  padding-left: 10px; */
+ 
+}
+
+.camer{
+    margin-right: 300px;
+    float: right;
+}
+
+.descrip{
+    margin-top: 100px;
+    
+}
+
+.shoes{
+    width: 100%;
+    
+}
+
+.gallery{
+    margin-top: 100px;
+}
+.derecha{
+    float: right;
+    margin-left: 30px;
+}
+
+.readmore{
+    float: right;
+    }
+
+.last{
+    background-image: url('/assets/images/lago.png');
+
+    /* Set a specific height */
+    /* min-height: 500px;  */
+    background-size: 80%;
+    min-height: 500px;
+    
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    /* margin-left: -20px;
+    padding-left: 10px; */
+    background-position: 50% 50%;
+    
+   
+}
+
+.la{
+    background-image: url('/assets/images/lago.png');
+    
+    /* Set a specific height */
+    /* min-height: 500px;  */
+    background-size: 80%;
+    min-height: 500px;
+    
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    /* margin-left: -20px;
+    padding-left: 10px; */
+    background-position: 50% 50%;
+    
+}
+
+.boda{
+    background-image: url('/assets/images/lago.png');
+    background-size: 80%;
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    /* margin-left: -20px;
+    padding-left: 10px; */
+    background-position: 50% 50%;
+  }
+  .debo{
+      font-size: 30px;
+      margin-left: 200px;
+  }
+
+  .contacto{
+      margin-right: 300px;
+      
+      
+  }
+
+
+ 
+  .vl {
+    border-left: 6px solid #d4937a;
+     border-top: 6px solid #d4937a;
+     border-right: 6px solid #d4937a;
+     border-bottom: 6px solid #d4937a;
+     
+    margin-top: 150px;
+    height: 550px;
+    
+  }
+  
+  .medio{
+  position: absolute;
+  background-color: white;
+  margin-top: -10px;
+  margin-left: 350px;
+  margin-top: -100px;
+  text-align: center;
+  
+  
+  }
+  
+ 
+  .talk{
+      font-size: 100px;
+     
+     
+  }
+
+  
+.form-group {
+    margin-right: 200px;
+    margin-left: 200px;
+    
+
+}
+
+input[type=text], textarea {
+    border: 2px solid #d4937a;
+    border-radius: 0;
+  
+    -webkit-appearance: none;
+  }
+
+
+.fe{
+    margin-top: 150px;
+}
+
+
+.btn{
+    padding-right: 300px;
+    padding-left: 300px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 200px;
+    background-color: #d4937a;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+  
+.tres{
+    color: #d4937a;
+}
+
+#album{
+    display: none;
+}
+
+
+
+
+  /* .item {  
+    transition: all 0.3s;
+  }
+  .item:hover  {
+    transform: scale(1.3);
+  } */
